@@ -1,0 +1,2 @@
+.App{display:flex;flex-direction:column;align-items:center}.App__label{display:flex;justify-content:space-between;width:200px;font-size:18px}.App__label>input{font-size:18px;width:80px}.Carousel__list{display:flex;overflow:hidden;padding:0;margin:20px auto}.Carousel__item{display:flex;justify-content:space-around}.Carousel>button,.Carousel>div{text-align:center;margin:0 auto}.Carousel>button{display:flex;flex-direction:row}
+/*# sourceMappingURL=main.2603a63b.chunk.css.map */
